@@ -57,5 +57,5 @@ jobs:
           python-version: '3.10'
       # Run your test
       - name: Check Documentation
-        run: CS3213-check_doc.py
+        run: ../CS3213-check_doc.py
         
